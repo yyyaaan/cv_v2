@@ -1,0 +1,66 @@
+@media print {    
+  footer, #toast-container, #the-menu{
+    display: none !important;
+  }
+}
+h2 {
+  font-size: 2.2rem;
+  font-weight: 500;
+}
+h5{
+  font-size: 1.33rem;
+}
+#toast-container {
+  bottom: auto !important;
+  left: 50px;
+  top: 1%;
+  right: auto !important;  
+}
+.tap-target {
+  background-color: lightgrey;
+  width: 60%;
+  height: 60%;
+}
+.row {
+  margin-bottom: 0px;
+}
+.the-skill {
+  border: solid lightblue;
+  padding: 3px 10px 3px 10px;
+}
+.left-border{
+  border-left: #03a9f4 solid 5px;
+  padding-left: 30px;
+}
+#decorative > .dec-1 {
+   border-top: #aa96da solid 3px;
+}
+#decorative > .dec-2 {
+   border-top: #c5fad5 solid 3px;
+}
+#decorative > .dec-3 {
+   border-top: #ffeb59 solid 3px;
+}
+.icon-block-1 > h5 > i {
+  color: #aa96da;
+  font-size: 33px;
+}
+.icon-block-2 > h5 > i {
+  color: #c5fad5;
+  font-size: 33px;
+}
+.icon-block-3 > h5 > i {
+  color: #ffeb59;
+  font-size: 33px;
+}
+.icon-block-1 > h5.center {
+  text-decoration: underline double #aa96da;
+}
+.icon-block-2 > h5.center {
+  text-decoration: underline double #c5fad5;
+}
+.icon-block-3 > h5.center {
+  text-decoration: underline double #ffeb59;
+}
+
+/*Light Purple (#D7A9E3FF), Light Blue (#8BBEE8FF) and Light Green (#A8D5BAFF)*/
