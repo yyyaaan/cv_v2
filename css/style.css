@@ -1,5 +1,5 @@
 @media print {    
-  footer, #toast-container, #the-menu{
+  footer, #toast-container, #the-menu, #certificates {
     display: none !important;
   }
 }

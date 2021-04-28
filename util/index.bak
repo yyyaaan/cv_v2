@@ -139,37 +139,16 @@
           <div class="collapsible-header" style="text-align:right"><large>Academic</large></div>
         </li>
         <li  class="active">
-          <div class="collapsible-header"><i class="material-icons">school</i>M.Sc. Statistics<span class="badge deep-orange lighten-4" data-badge-caption="ECTs">122</span></div>
-          <div class="collapsible-body row">
-            <div class="col s9">
-              <p>Filosofian maisterin tutkinto - tilastotieteen maisteriohjelma<br/>Subject studies completed partially in Finnish <i>(Grade: Very Good/Kiitetävä)</i></p>
-              <p>Thesis: <a href="https://jyx.jyu.fi/handle/123456789/68203">Time-Varying Source Separation by Joint Diagonlization on Autocovariances </a><i>(Grade: Very Good/Kiitetävä)</i></p>
-              <img height="60px", src="https://www.jyu.fi/fi/yliopistopalvelut/viestintapalvelut/logot/jyu-vaaka-kaksikielinen.jpg">
-            </div>
-            <div class="col s3">
-              <img class="materialboxed" width="99%" src="/cv/images/thumbnail/msc_stat.jpg" data-enlarge-image="/cv/images/full/msc_stat.png">
-            </div> 
-          </div>
+          <div class="collapsible-header"><i class="material-icons">school</i>M.Sc. Statistics<span class="badge deep-orange lighten-4" data-badge-caption="ECTs">120</span></div>
+          <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
         </li>
         <li>
-          <div class="collapsible-header"><i class="material-icons">business_center</i>M.Sc. Economics and Business Administration<span class="badge deep-orange lighten-4" data-badge-caption="ECTs">132</span></div>
-          <div class="collapsible-body row">
-            <div class="col s9">
-              <p>Master of Science (Economics and Business Administration<br/>Subject studies completed in English<i>(Grade: Very Good)</i></p>
-              <p>Thesis: <a href="https://jyx.jyu.fi/handle/123456789/60668">Innovation in Complex Adaptive System: an exploratory study in mobile phone industry </a><i>(Grade: Good)</i></p>
-            </div>
-            <div class="col s3">
-              <img class="materialboxed" width="99%" src="/cv/images/thumbnail/msc_econ.jpg" data-enlarge-image="/cv/images/full/msc_econ.png">
-            </div> 
-          </div>
-        </li>
-
+          <div class="collapsible-header"><i class="material-icons">business_center</i>M.Sc. Economics and Business Administration<span class="badge deep-orange lighten-4" data-badge-caption="ECTs">120</span></div>
+          <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+          </li>
         <li>
           <div class="collapsible-header"><i class="material-icons">library_books</i>Publications and Researches</div>
-          <div class="collapsible-body">
-            <p>Pan, Y., Matilainen, M., Taskinen, S., & Nordhausen, K. (2021). A review of second‐order blind identification methods. <i>Wiley Interdisciplinary Reviews: Computational Statistics</i>, e1550. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/wics.1550">doi:10.1002/wics.1550</a> </p>
-            <p>Check out my homepage <a href="http://yan.fi">yan.fi</a> for funny real-life projects</p>
-          </div>
+          <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
           </li>
       </ul>
     </div>
@@ -201,7 +180,7 @@
   </li>
   
   <li>
-  <div class="collapsible-header"><i class="far fa-lightbulb"></i>DeepLearning.AI TensorFlow Developer <small> Professional Certificate</small><span class="badge blue lighten-5" data-badge-caption="courses">4</span></div>
+  <div class="collapsible-header"><i class="far fa-lightbulb"></i>DeepLearning.AI<span class="badge blue lighten-5" data-badge-caption="courses">4</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~D3ATD54NQQ74.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~D3ATD54NQQ74.jpeg">
@@ -211,7 +190,7 @@
       </p>
     </div>
     <div class="col s7">
-       <p>by <i>DeepLearning.AI</i></p>
+       <p>by <i>DeepLearning.AI TensorFlow Developer <small> Professional Certificate</small></i></p>
        <ul class="browser-default"><li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</li><li>Convolutional Neural Networks in TensorFlow</li><li>Natural Language Processing in TensorFlow</li><li>Sequences, Time Series and Prediction</li></ul>
     </div>
   </div>
