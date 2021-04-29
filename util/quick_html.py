@@ -51,6 +51,14 @@ Data Analysis with R Programming
 Google Data Analytics Capstone: Complete a Case Study
 
 
+Fundamentals of Parallelism on Intel Architecture
+Intel
+D3X88XPBDWQC
+<i class="fas fa-microchip"></i>
+C
+Vectorization, OpenMP, Memory Optimization, Clusters and MPI
+
+
 Advanced Machine Learning on Google Cloud
 Google Cloud
 H7EKZL2N3BKR
