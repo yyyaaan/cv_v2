@@ -1,7 +1,10 @@
 @media print {    
-  footer, #toast-container, #the-menu, #certificates {
+  footer, #toast-container, #the-menu, #certificates, #workflow{
     display: none !important;
   }
+}
+.card-content > div > p {
+  padding: 8px;
 }
 h2 {
   font-size: 2.2rem;

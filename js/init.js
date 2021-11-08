@@ -9,16 +9,9 @@ $(document).ready(function(){
   });
 
   M.toast({html: '<- More details here!'})
+  
+  var el = document.querySelector('.tabs');
+  var instance = M.Tabs.init(el, {});
 });
-
-/*
-$('.materialboxed').materialbox('large': 'data-enlarge-image');
-$('.boxwithlarge').materialbox({
-  onOpenStart: function(e){
-    e.src = e.attributes['data-enlarge-image'].nodeValue;
-  }
-})
-
-*/
 
 

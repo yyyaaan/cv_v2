@@ -54,7 +54,7 @@
     <div class="col s8 left-border">
       <h2 class="mono">YAN PAN</h2>
       <p>Tech-minded data scientist with passion<br/>
-      M.Sc. Statistics | M.Sc. Economics | <span class="tooltipped" data-position="top" data-tooltip="Google data analytics professional certificate<br/>IBM AI engineering professional certificate">Certified Data Analyst and AI Engineer.</span></p>
+      M.Sc. Statistics | M.Sc. Economics | <span class="tooltipped" data-position="top" data-tooltip="DeepLearning.AI TensorFlow Developer professional certificate<br/>Google data analytics professional certificate<br/>IBM AI engineering professional certificate">Certified Data Analyst, TensorFlow Programmer and AI Engineer.</span></p>
       <p>
         <a class="btn-flat light-blue lighten-5" href="http://yan.fi"><i class="fas fa-laptop-house"></i> https://yan.fi</a>  
         <a class="btn-flat light-blue lighten-5" href="https://www.kaggle.com/yyyaaan"><i class="fab fa-kaggle"></i> kaggle.com/yyyaaan</a>  
@@ -108,15 +108,15 @@
         </p>
         <div class="collection">
           <div class="collection-item">
-            Statistical Programmer + Tool&Tech Dev Team member <br/>
+            Data Scientist (Statistical Analysis Programming) + Tool&Tech Dev Team <br/>
             <span class="light">
               IQVIA, expert service to Novartis | (since Dec 2018)<br/>
-              Full data lifecyle from loading to reporting. Hightlighed with materialize academic paper to production algorithm; develop and promote automated data workflow under hybrid less-popular cloud infrastructure (AIX Win/Unix)
+              Full data lifecyle from loading to reporting. Hightlighed with materialize academic paper to production algorithm; 20% work time assigned to Tool&Tech Dev Team, developing and promoting automated data workflow under hybrid speciality cloud infrastructure (AIX Win/Unix)
             </span>
           </div>
           <div class="collection-item">
             Dual Master Studies with solid records at University of Jyväskylä<br/>
-            <span class="light">> M.Sc. Statistic (2018 ~ 2020)<br/>> M.Sc. Business and Economics (2014 ~ 2018)</span>
+            <span class="light">> M.Sc. Statistics (2018 ~ 2020)<br/>> M.Sc. Business and Economics (2014 ~ 2018)</span>
           </div>
           <div class="collection-item">
             Product Coordinator: System Expert, Key BI Developer<br/>
@@ -133,7 +133,7 @@
   <div id="decorative" class="row">
     <div class="col s1 offset-s1 dec-1"> </div>
     <div class="col s1 offset-s2 dec-2"> </div>
-    <div class="col s4 offset-s2 dec-3"> </div>
+    <div class="col s4 offset-s2 dec-3"> <small><a href="http://cv.yan.fi">More details available at http://cv.yan.fi</a></small></div>
   </div>
   
 
@@ -189,7 +189,24 @@
 <!--UTIL FLAG A-->
 
   <li class="active">
-  <div class="collapsible-header"><i class="fas fa-flag-checkered"></i>IBM AI Engineering <small> Professional Certificate</small><span class="badge blue lighten-5" data-badge-caption="course">6</span></div>
+  <div class="collapsible-header">AAI for Medicine <small> Professional Certificate</small><span class="badge purple lighten-5" data-badge-caption="courses">3</span></div>
+  <div class="collapsible-body row">
+    <div class="col s5">
+      <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~WKRFNRRR8YYY.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~WKRFNRRR8YYY.jpeg">
+      <p class="center-align">
+        tap to enlarge<br/>
+        <a target="_blank" href="http://coursera.org/verify/professional-cert/WKRFNRRR8YYY"><i class="material-icons tiny">open_in_new</i>  Verify</a>
+      </p>
+    </div>
+    <div class="col s7">
+       <p>by <i>DeepLearning.AI</i></p>
+       <ul class="browser-default"><li>AI for Medical Diagnosis</li><li>AI for Medical Prognosis</li><li>AI For Medical Treatment</li></ul>
+    </div>
+  </div>
+  </li>
+  
+  <li>
+  <div class="collapsible-header"><i class="fas fa-flag-checkered"></i>IBM AI Engineering <small> Professional Certificate</small><span class="badge blue lighten-5" data-badge-caption="courses">6</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~5VNYW898L2X9.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~5VNYW898L2X9.jpeg">
@@ -206,7 +223,7 @@
   </li>
   
   <li>
-  <div class="collapsible-header"><i class="far fa-lightbulb"></i>DeepLearning.AI TensorFlow Developer <small> Professional Certificate</small><span class="badge blue lighten-5" data-badge-caption="course">4</span></div>
+  <div class="collapsible-header"><i class="far fa-lightbulb"></i>DeepLearning.AI TensorFlow Developer <small> Professional Certificate</small><span class="badge blue lighten-5" data-badge-caption="courses">4</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~D3ATD54NQQ74.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~D3ATD54NQQ74.jpeg">
@@ -223,7 +240,7 @@
   </li>
   
   <li>
-  <div class="collapsible-header"><i class="fab fa-google"></i>Google Data Analytics <small> Professional Certificate</small><span class="badge blue lighten-5" data-badge-caption="course">8</span></div>
+  <div class="collapsible-header"><i class="fab fa-google"></i>Google Data Analytics <small> Professional Certificate</small><span class="badge blue lighten-5" data-badge-caption="courses">8</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~3B9PVVBSANNS.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~3B9PVVBSANNS.jpeg">
@@ -240,7 +257,7 @@
   </li>
   
   <li>
-  <div class="collapsible-header"><i class="fas fa-microchip"></i>Fundamentals of Parallelism on Intel Architecture<span class="badge purple lighten-5" data-badge-caption="course">1</span></div>
+  <div class="collapsible-header"><i class="fas fa-microchip"></i>Fundamentals of Parallelism on Intel Architecture<span class="badge purple lighten-5" data-badge-caption="courses">1</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~D3X88XPBDWQC.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~D3X88XPBDWQC.jpeg">
@@ -257,7 +274,7 @@
   </li>
   
   <li>
-  <div class="collapsible-header"><i class="fab fa-cloudversify"></i>Advanced Machine Learning on Google Cloud<span class="badge purple lighten-5" data-badge-caption="course">5</span></div>
+  <div class="collapsible-header"><i class="fab fa-cloudversify"></i>Advanced Machine Learning on Google Cloud<span class="badge purple lighten-5" data-badge-caption="courses">5</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~H7EKZL2N3BKR.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~H7EKZL2N3BKR.jpeg">
@@ -274,7 +291,7 @@
   </li>
   
   <li>
-  <div class="collapsible-header"><i class="fas fa-chart-line"></i>Machine Learning for Trading<span class="badge purple lighten-5" data-badge-caption="course">3</span></div>
+  <div class="collapsible-header"><i class="fas fa-chart-line"></i>Machine Learning for Trading<span class="badge purple lighten-5" data-badge-caption="courses">3</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~ZDZNN7YTWMU4.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~ZDZNN7YTWMU4.jpeg">
@@ -291,7 +308,7 @@
   </li>
   
   <li>
-  <div class="collapsible-header"><i class="fas fa-layer-group"></i>Machine Learning with TensorFlow on Google Cloud Platform<span class="badge purple lighten-5" data-badge-caption="course">5</span></div>
+  <div class="collapsible-header"><i class="fas fa-layer-group"></i>Machine Learning with TensorFlow on Google Cloud Platform<span class="badge purple lighten-5" data-badge-caption="courses">5</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~X6SMHCN6VM73.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~X6SMHCN6VM73.jpeg">
@@ -308,7 +325,7 @@
   </li>
   
   <li>
-  <div class="collapsible-header"><i class="fas fa-grip-vertical"></i>Deep Learning<span class="badge purple lighten-5" data-badge-caption="course">5</span></div>
+  <div class="collapsible-header"><i class="fas fa-grip-vertical"></i>Deep Learning<span class="badge purple lighten-5" data-badge-caption="courses">5</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~629H5B983QTX.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~629H5B983QTX.jpeg">
@@ -325,7 +342,7 @@
   </li>
   
   <li>
-  <div class="collapsible-header"><i class="fab fa-python"></i>Applied Data Science with Python<span class="badge purple lighten-5" data-badge-caption="course">6</span></div>
+  <div class="collapsible-header"><i class="fab fa-python"></i>Applied Data Science with Python<span class="badge purple lighten-5" data-badge-caption="courses">6</span></div>
   <div class="collapsible-body row">
     <div class="col s5">
       <img class="materialboxed" width="99%" src="/cv/images/thumbnail/CERTIFICATE_LANDING_PAGE~FXFS2CDJUK2Q.jpg" data-enlarge-image="/cv/images/full/CERTIFICATE_LANDING_PAGE~FXFS2CDJUK2Q.jpeg">

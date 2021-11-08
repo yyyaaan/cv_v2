@@ -12,6 +12,16 @@ type (A or B)
 courses (names)
 
 
+AI for Medicine <small> Professional Certificate</small>
+DeepLearning.AI
+WKRFNRRR8YYY
+<i class="fas fa-capsules"></i>
+A
+AI for Medical Diagnosis
+AI for Medical Prognosis
+AI For Medical Treatment
+
+
 IBM AI Engineering <small> Professional Certificate</small>
 IBM
 5VNYW898L2X9
