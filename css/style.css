@@ -3,6 +3,9 @@
     display: none !important;
   }
 }
+.collapsible-header > .btn-flat {
+  width: 99%;
+}
 .card-content > div > p {
   padding: 8px;
 }

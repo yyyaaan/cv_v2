@@ -149,7 +149,10 @@
     <div id="cert-academic" class="col s12 m5 offset-m1"> 
       <ul class="collapsible z-depth-0">
         <li>
-          <div class="collapsible-header" style="text-align:right"><large>Academic</large></div>
+          <div class="collapsible-header">
+            <a id="btn-a1" class="btn-flat" onClick="expandAllAcademics();"><i class="material-icons right">expand_more</i>Academic <small>(click to expand)</small></a>
+            <a id="btn-a2" class="btn-flat" onClick="collapseAllAcademics();"><i class="material-icons right">expand_less</i>Academic</a>
+          </div>
         </li>
         <li  class="active">
           <div class="collapsible-header"><i class="material-icons">school</i>M.Sc. Statistics<span class="badge deep-orange lighten-4" data-badge-caption="ECTs">122</span></div>
@@ -185,15 +188,20 @@
           </div>
           </li>
       </ul>
+
+      <p class="right-align"><a class="waves-effect waves-light btn-flat" onClick="collapseAllAcademics();"><i class="material-icons right">fullscreen_exit</i>Collapse All</a><p>
       
-    <p style="margin-top:50px; text-align:center;"><a href="#workflow">How my data workflow works? Check here</a></p>
+      <p style="margin-top:50px; text-align:center;"><a href="#workflow">How my data workflow works? Check here</a></p>
+
+    
     </div>
     
     <div id="cert-specializations" class="col s12 m5"> 
       <ul class="collapsible z-depth-0">
         <li>
           <div class="collapsible-header">
-            <large>Certfications & Specializations</large>
+            <a id="btn-b1" class="btn-flat" onClick="expandAllSpecializations();"><i class="material-icons right">expand_more</i>Certfications & Specializations <small>(click to expand)</small></a>
+            <a id="btn-b2" class="btn-flat" onClick="collapseAllSpecializations();"><i class="material-icons right">expand_less</i>Certfications & Specializations</a>
           </div>
         </li>
 <!--UTIL FLAG A-->
@@ -370,6 +378,9 @@
   <!--UTIL FLAG A END-->
 
       </ul>
+            
+      <p class="right-align"><a class="waves-effect waves-light btn-flat" onClick="collapseAllSpecializations();"><i class="material-icons right">fullscreen_exit</i>Collapse All</a><p>
+
     </div>
   </div>
   
@@ -390,7 +401,7 @@
       </div>
       <div class="card-content grey lighten-4">
         <div id="workflow1"><p>In existing workflow orchestration, compile job can be done with one-click and submitted as BASH/Perl. However, it has strong limitations and tough assumptions to be accomplished. My development/improvement project fulfills the “grey area” that existing workflow could not cover.</p><p>Source: varied from Excel, CSV, TSV, SAS to direct or adapted DB access.</p><p>Tools: BASH (workflow orchestration, version control), Python without 3rd library (process monitoring, CSV/TSV pre- and post-processing, etc.), SQL (transformation, standardizing, etc.), Oracle DB/SAS (final data loading) .</p><p>Analytics: regulatory reports, advanced statistical models in R or SAS.</p></div>
-        <div id="workflow2"><p>My hobby project fulfills my tech-mind in terms of modern cloud service, and also serve my need for interesting data.</p><p>Concept: no-limitation for the cloud and myself in terms of programming languages or unfamiliar areas.</p><p>Source: mostly captured webpages (NodeJS/Puppeteer), scheduled streaming and traditional ETL.</p><p>Tools: Google Cloud, incl. Virtual Machine (Unix, as my hub), BigQuery (database), Cloud Function (severless, in NodeJS and Python), DataStudio/BI (dashboard), R-Shiny server (dashboard). Plus Git, Bash and miscellaneous network configuration and cloud infrastructure installation. Separate Storage service is not used for cost concerns.</p><p>Analytics: push notification to my phone for interesting findings, dashboard (interactive plotting with webhooks); occasionally model fitting in Tensorflow-Python (preferred over scikit-learn). Examples in Kaggle</p></div>
+        <div id="workflow2"><p>My hobby project fulfills my tech-mind in terms of modern cloud service, and also serve my need for interesting data.</p><p>Concept: no-limitation for the cloud and myself in terms of programming languages or unfamiliar areas.</p><p>Source: mostly captured webpages (NodeJS/Puppeteer), scheduled streaming and traditional ETL.</p><p>Tools: Google Cloud, incl. Virtual Machine (Unix, as my hub), BigQuery (database), Cloud Function (severless, in NodeJS and Python), DataStudio/BI (dashboard), R-Shiny server (dashboard). Plus Git, Bash and miscellaneous network configuration and cloud infrastructure installation. Separate Storage service is not used for cost concerns.</p><p>Analytics: push notifications to my phone, chatbot, dashboard with interactive plotting; occasionally model fitting in Tensorflow-Python (preferred over scikit-learn). Examples in Kaggle</p></div>
       </div>
     </div>
   </div>
